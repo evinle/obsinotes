@@ -1,0 +1,4 @@
+- CPP transcriber: Open Source, locally run, sounds almost too good to be true https://github.com/modelscope/FunClip?tab=readme-ov-file
+- Another way is to use an online tool that has a monthly limit https://soundmadeseen.com/free-tools
+- Discord bot is also promising
+- 

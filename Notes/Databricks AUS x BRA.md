@@ -1,0 +1,21 @@
+- Capability Statements: one pager outlining credentials, as introduction
+-
+- Databricks only 1 License. Only Caio has access through the portal
+- 3 Pillars to achieve Points 
+	- Growth 
+	- Customer Success
+	- Innovation
+- Most people are Data Engineers, need more AI!
+- Get 40 points, 35 now, lost 2, will cap out before Jan
+- MRR recurrent payment, since we have achieved a lot of DBU 
+- Databricks event > must go
+- Whatsapp group chat - exchange exam information
+- Free cert vouchers?
+- Talish Pirish? Bruno Wells account executive of all partnerships in LATAM? find someone like that for APAC?
+- Goal for 2026: get to Select tier & do more AI projects
+- Solutions Architect knows all cutting edge technologies, very helpful!
+- Good first impressions with a DBricks project is very important, could lead to more projects from DBricks
+- Account executives of DBricks always
+- Fashion company case: was using DBricks for a lot of stuff. Not a new project. 
+- Electrical company case: we registered on the partners lead. We actively called Databricks about the CTO deciding between DBricks and Microsoft.
+- Igor Lima: exp with soft eng, close with CTO

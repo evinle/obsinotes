@@ -1,0 +1,5 @@
+- Maybe need a trait system, make every game feel more unique
+- Cosmetics/Flex items could also be good
+- anime.js is pretty insane, looks like a good fit for doing animations in game, sprites won't cut it with all the classes/weapons
+- tailwind css could also be an option
+-
