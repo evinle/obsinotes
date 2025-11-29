@@ -44,3 +44,5 @@ z order indexing?
 VACUUM <table name> [retention period]
 ```
 no time travel after
+\_delta_log files inside of warehouse 
+`dbfs:/user/hive/warehouse/employees/_delta_log/`
