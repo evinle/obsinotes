@@ -35,3 +35,17 @@ For example, it could be costly to do testing on integrating everything on the s
 
 ----- 
 Section 1: 7
+- Workspace can contain notesbooks
+- Notebook assigned to a cluster
+- Language magic command that defines a different language for specific cells in the notebook
+	- %sql
+	- %md
+	- %run
+	- %fs (ls '/databricks-datasets')
+- dbutils 
+	- Utility commands 
+	- Built in
+- dbc cloud files
+- Export
+- Revisions	
+- Can also link with another git repo from github etc...
