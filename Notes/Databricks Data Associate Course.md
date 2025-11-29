@@ -32,3 +32,6 @@
 I guess the value really comes from the ability to integrate everything together
 There are some proprietary technologies here and there, but the selling point seems to be integration between between layers, storage + compute + analysis, rather than a groundbreaking proprietary closed off stack
 For example, it could be costly to do testing on integrating everything on the stack manually, like spinning up a cluster of VMs that have workers and driver all running spark, and then orchestrating them to also write to the underlying storage, but that time is now saved through databricks, with updates, security and everything else taken care off as well
+
+----- 
+Section 1: 7
