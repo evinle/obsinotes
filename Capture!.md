@@ -1,0 +1,30 @@
+- Twelve favourite questions
+- Like an array checked in a callback everytime there’s a new concept
+	- Family
+	- Unlock potential
+	- Mindlessness
+	- Healthiness: skin, headache, strength
+	- Solve problems digitally
+	- Productivity and time management
+	- Relationships, interactions and connections 
+	
+- How does that guy -Feynman, have the courage to do all those things
+- Does it come from his confidence stemming from his natural intelligence
+- I’m in a position of privilege to be asking these questions
+- Feels like the author is trying to encourage this view of “the world around you is amazing, extract from it” 
+- How do I get feedback for my notes? Maybe feed to chatgpt? 
+- Where did I come across this idea of feedback? Was it from this book? 
+- I feel like I’ve learned these lessons before, I just keep on repeating the same class. I knew that creation was the key
+- Does this take into account chatgpt? maybe its not that helpful because it needs to be from your own lenses
+- What benefits from being able to see different points of views
+- salient succinct
+- A lot of talk about eating and fuelling in this book. Inspiration is very energising though. Inspo book
+	- I think I was too afraid of doing cliche things that normal people do, because I thought I was special
+	- It seems so foolish now. Why restraint yourself from drinking when you’re thirsty just so you can wait to drink from your own sweat. Extracting from the external is in your nature
+- Keep a spare part, but everything is…
+- Think of the utility i guess
+- personal… maybe too random?
+- THE SURPRISE FACTORRR
+- resonance - an echo in your soul
+- “emotions organize - rather than disrupt - rational thinking” ? 
+- WOW SO ME “HAVING SELF CONTROL” WAS ACTUALLY SUBDUING MY INTUITION SUPER OMEGA POWER?
