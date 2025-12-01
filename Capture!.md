@@ -28,3 +28,6 @@
 - resonance - an echo in your soul
 - “emotions organize - rather than disrupt - rational thinking” ? 
 - WOW SO ME “HAVING SELF CONTROL” WAS ACTUALLY SUBDUING MY INTUITION SUPER OMEGA POWER?
+- Maybe I should get Gian to write about his emotions
+- So pragmatic this approach, saving energy in a real system with constraints
+- It’s about squeezing more juice out of the fruit of life
