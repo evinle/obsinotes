@@ -1,0 +1,5 @@
+- Evaluate what matters the most to you
+- Shiny Object Syndrome, jealousy of what you see online, remember they dedicated so much time and effort to their craft, and what you’re seeing is the dividends of that
+- Try to manage your time with a calendar to make the most out of your scarce time and attention, and assassinate it with intention 
+- ![[IMG_5286.png]]
+- Might as well get good at something you can’t avoid
