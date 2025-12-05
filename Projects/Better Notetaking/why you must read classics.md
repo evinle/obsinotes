@@ -1,0 +1,8 @@
+- that don’t have to be old but being old is the testament that they remain relevant and resonant across time, time reveals classics
+- gilgamesh DTB
+- they alter history, shape culture and identity customs and traditions
+	- Karl Marx
+	- Homer
+- classics is up for interpretation, they reveal more the more you read them, and the more experiences you have
+- they guide you
+- a classic to you might not be a classic to me
