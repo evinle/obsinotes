@@ -1,0 +1,25 @@
+- What's done in Brazil for VPE
+	- The team was bigger
+	- It was very common to have feedback sessions
+	- Recurrences with people from the team
+	- General feelings about the project
+- Things to keep up
+	- Daily routine much clearer
+	- Good relationship
+	- Good to rely on 
+	- Pass clearly the problems we're facing
+	- What I'm working on
+	- Helpful, communication
+- Improvement
+	- More proactive, reach out for help
+	- Send PR to someone else specific
+
+
+- Good Lucas
+	- Not afraid to raise issues - ones that we're missing
+	- Speak earnestly
+	- Not afraid to deep dive
+	- Commitment/flexibility
+	- Goal/Deadline Driven
+- Improvement 
+	- 
