@@ -6,5 +6,6 @@
 - Busy with project
 - Working on Databricks
 - Working on something else
+- Front end is fun but it's not really impactful
 ### Post
 - 

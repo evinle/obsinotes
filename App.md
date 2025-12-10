@@ -1,1 +1,1 @@
-Vosual mind map convieniencr search drop annotate 
+Visual mind map convenience search drop annotate 
