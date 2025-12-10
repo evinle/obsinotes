@@ -1,0 +1,2 @@
+- AI companies (OpenAI specifically) buying out almost half of the ram kickstarted the explosion of prices
+- but the this may have been planned as a slow intentional strangle on supply by the big 3 RAM manufacturers SK Onyx, Samsung and micron to gradually increase margins on RAM

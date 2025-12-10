@@ -1,0 +1,8 @@
+- Distillation should be a different step from capturing and organising, yet another way to make the process of capturing information more frictionless
+- Progressive Summarisation: highlighting more and more concise parts of the source material, giving yourself different options depending on the time you have when you’re using the info
+- Think of yourself as a very important VIP that demands catchy insights to catch your attention. If the price for the info is not right then you have failed and wasted your time
+- it’s not a method for remembering by as much as possible - it is a method for forgetting as much as possible
+- if you’re going to capture everything, might as well capture nothing
+- each layer should only include 10-20 % of the previous layer
+- it’s a memoisation technique. Don’t highlight until you need. Don’t compute the result of a function until you need
+- Make it easy for your future self, less is more
