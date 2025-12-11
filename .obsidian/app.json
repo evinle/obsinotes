@@ -1,4 +1,6 @@
 {
   "showLineNumber": true,
-  "vimMode": true
+  "vimMode": true,
+  "attachmentFolderPath": "_assets",
+  "newFileLocation": "current"
 }

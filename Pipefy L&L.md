@@ -1,0 +1,17 @@
+- Workflow system
+- Lowcode
+	- Automation
+	- Ingestions
+	- Integration with other systems
+- 52% projects go through
+- 8 months average building time
+- How we reworked the reimbursement process
+	- Custom form
+	- Email flow
+	- AI step: check the images and give a verdict if the dates and prices are accurate
+	- Flow through partners
+	- To business admins
+	- I wonder what their daily process is like now
+
+- How we reworked V-Coins with Pipefy
+- 1000USD/year per person

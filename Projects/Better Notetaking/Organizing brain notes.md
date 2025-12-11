@@ -1,0 +1,6 @@
+- 4 main categories: Projects, Areas, Resources and Archives; PARA
+- They’re in the order of how soon the information is useful and actionable
+- Separate note taking and organising in different steps, to make taking them more frictionless
+- It’s a race to see whos the most practical
+- In todays modern society, it’s more practical to rely on research from others to keep up with the unfathomably vast information landscape
+- Keeping things in Projects can also help me identify when I have too many things going on

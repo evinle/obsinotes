@@ -1,0 +1,5 @@
+- Put ur info into practice, if u cant then simulate it 
+- you’re basically tricking your brain into using it
+- 20% knowledge - 80% of the skill
+- is this about distilling? has to be
+- library genesis for free books

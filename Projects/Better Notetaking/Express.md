@@ -1,0 +1,3 @@
+- Expressing is the way to get feedback, and is half the purpose of distilling all of these meeting notes in the first place
+- Break them down to reusable chunks (wow react fanboy much), and work on them depending on how time permits
+- 
