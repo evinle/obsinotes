@@ -46,3 +46,5 @@ VACUUM <table name> [retention period]
 no time travel after
 \_delta_log files inside of warehouse 
 `dbfs:/user/hive/warehouse/employees/_delta_log/`
+
+So compared to Snowflake, Databricks seems a lot more versatile and open. It does require more setup and expertise, but you can really customize your experience, which is great. Snowflake seems like they're taking the "Apple" approach to things where it's a very locked down, but optimized user experience, especially for BI analytics, and general SQL. They also store data in a proprietary format in the underlying COS, which needs to be ingested by snowflake before being read
