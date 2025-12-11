@@ -1,0 +1,1 @@
+with ai now it is even more critical to build everything based on configs so that you can instruct the ai to follow the configs rules to make changes
