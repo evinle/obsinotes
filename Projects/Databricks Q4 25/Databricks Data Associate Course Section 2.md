@@ -48,3 +48,19 @@ no time travel after
 `dbfs:/user/hive/warehouse/employees/_delta_log/`
 
 So compared to Snowflake, Databricks seems a lot more versatile and open. It does require more setup and expertise, but you can really customize your experience, which is great. Snowflake seems like they're taking the "Apple" approach to things where it's a very locked down, but optimized user experience, especially for BI analytics, and general SQL. They also store data in a proprietary format in the underlying COS, which needs to be ingested by snowflake before being read
+
+
+### Data file layout
+Data File Layout
+
+The **organization and storage structure** of the underlying data files
+that make up a **Delta table.**
+
+Optimizing layout **helps** leveraging **data-skipping algorithms**
+
+Optimization techniques:
+Partitioning
+Z-Order Indexing
+Liquid Clustering
+
+ûdemy
