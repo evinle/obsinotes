@@ -31,3 +31,4 @@
 - Maybe I should get Gian to write about his emotions
 - So pragmatic this approach, saving energy in a real system with constraints
 - It’s about squeezing more juice out of the fruit of life
+- we’re already producing, just gotta take some extra time to distill and organize
