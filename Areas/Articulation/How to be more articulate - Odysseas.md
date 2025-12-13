@@ -6,5 +6,5 @@
 - Journaling might help 
 - this might be a bit biased because the video creator is a writer
 - could just be helpful to slow things down, think about it more articulately so you can say it in a concise way
-- Leave for a inner dialog, a moment of respite and silence to process info
+- Leave time for a inner dialog, a moment of respite and silence to process info
 - Practice speaking to yourself
