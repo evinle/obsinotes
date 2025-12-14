@@ -1,0 +1,7 @@
+- It’s data engineering
+- It’s something to do
+- Why did I choose it in the first place
+	- It’s a good cert to have
+	- I was wondering how data science is done
+	- I was curious what’s on there, what the hype is all about
+	- This is a good look into how starting an initiative

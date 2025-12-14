@@ -1,0 +1,36 @@
+- What is life even for
+- Why do I crave validation
+- Why do I crave to impress
+- Why am I vain
+- Well I want to look good
+	- So that I can be more confident
+	- But confidence shouldn’t come from looking good
+	- But it helps
+	- I need a baseline of looking okay to be confident
+- So my goal is to be healthy to
+	- Fix my skin
+	- Fix my body
+	- Feel good
+- Why do I want to be good at coding
+	- To make money
+	- To take care of my family
+	- To take care of my friends
+	- To take care of the ones I love
+	- I don’t know how to without money
+	- But money shouldn’t be everything
+- I want to help my aging parents live a fulfilling happy rest of their lives
+	- My dad his health
+	- My mom her writing
+- What do I want to make of myself
+	- I want to be a wealth of knowledge that people can rely on
+	- I want to be of value to society
+	- I don’t want to have to rely on physical strength to make my living
+	- I want to be well liked
+	- I want to solve problems with technology
+	- I want to experience the wonders of the world
+- What matters to me
+	- My family 
+	- My partner
+	- My friends
+	- My enjoyment of life
+	- My health
