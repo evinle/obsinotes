@@ -4,4 +4,7 @@
 	- It’s a good cert to have
 	- I was wondering how data science is done
 	- I was curious what’s on there, what the hype is all about
-	- This is a good look into how starting an initiative
+	- This is a good look into what starting an initiative looks like
+	- I need to take this more start up style
+- So it does align with my goals, of starting something, and managing the processes behind it
+- I need to keep track of all the IPs that this produces

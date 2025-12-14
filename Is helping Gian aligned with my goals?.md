@@ -1,0 +1,4 @@
+- Yes, I want to help my friends in need
+- But how do I help them without sacrificing my own life
+- I need to mentor him, and guide him, not just blindly code with him
+- 
