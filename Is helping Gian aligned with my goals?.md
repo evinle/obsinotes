@@ -1,4 +1,5 @@
 - Yes, I want to help my friends in need
 - But how do I help them without sacrificing my own life
 - I need to mentor him, and guide him, not just blindly code with him
-- 
+- Gians going away for a week on the 22nd (Sun) of Dec, so project will be paused
+- Meanwhile I’ve told him to reflect on his whys, discussed options of involving more people, and limiting the time we spend on call
