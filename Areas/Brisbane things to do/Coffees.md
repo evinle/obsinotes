@@ -3,4 +3,8 @@
 
 ## Nice
 - Hideout - okay beans, kinda strong
+- MAS
+
+## Mid
+- Le bon choix - cakes not bar though
 - 
