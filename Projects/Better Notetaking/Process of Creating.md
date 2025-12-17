@@ -1,0 +1,4 @@
+- 2 modes/phases, Divergence and Convergence
+- pairs with the pairs of CO DE
+- breadth first search, then commit to what you’ve got when you’ve got enough
+- archipelagos. You just need to bridge islands of ideas
